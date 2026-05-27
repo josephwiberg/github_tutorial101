@@ -1,1 +1,1 @@
-print("A push")
+print("A push ... push")
