@@ -1,1 +1,1 @@
-print("A1")
+print("B")
