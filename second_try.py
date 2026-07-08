@@ -1,6 +1,1 @@
-print("Hello again... again")
-
-for i in range(3):
-    print("Hello again")
-    print()
-
+print("Hello World")
